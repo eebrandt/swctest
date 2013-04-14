@@ -1,1 +1,7 @@
 Another data point to my file
+
+point 2
+
+point 3
+
+
